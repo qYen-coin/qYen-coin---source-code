@@ -1,4 +1,4 @@
-# qYen coin source-code
+# qYen coin
 https://www.qyen-coin.com
 
 # What is qYen?
