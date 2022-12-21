@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=qYen Core
+Comment=qYen P2P Cryptocurrency
+Comment[de]=Verbinde mit dem qYen peer-to-peer Netzwerk
+Comment[fr]=qYen, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=qYen, eşten eşe kriptografik sanal para birimi
+Exec=qyen-qt %u
+Terminal=false
+Type=Application
+Icon=qyen128
+MimeType=x-scheme-handler/qyen;
+Categories=Office;Finance;
+StartupWMClass=qYen-qt

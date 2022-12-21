@@ -1,0 +1,6 @@
+usr/local/bin/qyen-qt usr/bin
+share/pixmaps/qyen32.xpm usr/share/pixmaps
+share/pixmaps/qyen16.xpm usr/share/pixmaps
+share/pixmaps/qyen128.png usr/share/pixmaps
+debian/qyen-qt.desktop usr/share/applications
+debian/qyen-qt.protocol usr/share/kde4/services/
